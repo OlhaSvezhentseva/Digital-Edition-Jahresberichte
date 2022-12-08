@@ -55,7 +55,7 @@ If possible they were linked with 2 items then.
 3) Some strings did not seem to be specific locations as "hiesig" or "verschiedenen Fundorten".
 
 All locations that could not be linked to a corresponding Wikidata item were marked with `-1`. 
-The Wikidata item number or -1 is to be found in `Qnumber" column. 
+The Wikidata item number or -1 is to be found in `Qnumber` column. 
 
 
  
