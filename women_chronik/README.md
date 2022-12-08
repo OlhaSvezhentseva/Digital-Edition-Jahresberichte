@@ -17,7 +17,7 @@ Jupyter notebook `women_chronik.ipynb` contains code to extract female names fro
 
 File `all_female_names.txt` contains all female names.
 
-File `extracted_names.txt` contains female names extracted from the chronik.
+File `extracted_names.txt` is a generated file that contains female names extracted from the chronik.
  
 
 # Requirements
