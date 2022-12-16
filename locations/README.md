@@ -3,8 +3,9 @@
 
 ## Description
 
-1457 Strings were annotated by Aron Marquart as locations and extracted as a table.
-They were to be linked to corresponing Wikidata items.
+1457 Strings were annotated by Aron Marquart as locations and extracted as a table. The table was not changed and
+is represented by the file `chronik_locations_raw.xlsx`.
+These locations were to be linked to corresponding Wikidata items resulting in `all_locations_wiki.xlsx`.
 
 
 
