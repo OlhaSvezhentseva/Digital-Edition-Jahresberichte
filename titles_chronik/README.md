@@ -31,7 +31,7 @@ Jupyter notebook `titles.ipynb` contains code to extract titles from the entitie
 
 File `titles.txt` is a generated file that contains all titles extracted from the chronik.
 
-File `MaleGivenNames.txt` contains all male names.
+File `all_names.txt` contains all female and male names.
  
 
 # Requirements
