@@ -3,7 +3,7 @@
 
 ## Description
 
-`titles.ipynb` extracts titles from annotations made as a part of Digital Edition Jahresberichte project 
+`titles.ipynb` extracts titles from annotations made as part of Digital Edition Jahresberichte project 
 by Aron Marquart.  `ParsedSemanticAnnotations.pickle` in Aron's repository (folder `Data`) contains all entities 
 extracted from the Chronik. They are of different types, for example `E7 Activity`, `E21 Person`.
 
@@ -22,7 +22,7 @@ At the end program saves extracted titles in `titles.txt`.
 The program implements the naive way to extract possible titles without having to check every word.
 Therefore there are false positives besides real titles. False positives are strings that were mistakenly identified
 as titles. Some of them are names, names of relations in a family, appellations, etc. 
-Such result were not removed because of the aim was see how well the
+Such result were not removed because of the aim to see how well the
 following naive algorithm works on the given type of data.
 
 
@@ -37,7 +37,6 @@ File `all_names.txt` contains all female and male names.
 # Requirements
 `python3.7`
 `nltk`
-`pickle`
 
 # Usage
 To be able to run the code it is necessary to change the path to the files in `titles.ipynb`

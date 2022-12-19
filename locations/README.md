@@ -51,7 +51,7 @@ that "Rovuma" referred to the river and was therefore linked to  `Q746779`.
 For example "südwestaustralisch' was linked to `Q3960` (Australian continent).
 
 2) Some strings contained several names of several locations, as "Britisch- und Portugiesisch- OStafrika".
-If possible they were linked with 2 items then.
+If possible they were linked with 2 items then, separated by a comma. 
 
 3) Some strings did not seem to be specific locations as "hiesig" or "verschiedenen Fundorten".
 

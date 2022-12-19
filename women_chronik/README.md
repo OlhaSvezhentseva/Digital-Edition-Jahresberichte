@@ -3,7 +3,7 @@
 
 ## Description
 
-`women_chronik.ipynb` extracts female names from annotations made as a part of Digital Edition Jahresberichte project 
+`women_chronik.ipynb` extracts female names from annotations made as part of Digital Edition Jahresberichte project 
 by Aron Marquart.  `ParsedSemanticAnnotations.pickle` in Aron's repository (folder `Data`) contains all entities 
 extracted from the Chronik. They are of different types, for example `E7 Activity`, `E21 Person`.
 
@@ -23,7 +23,6 @@ File `extracted_names.txt` is a generated file that contains female names extrac
 # Requirements
 `python3.7`
 `nltk`
-`pickle`
 
 # Usage
 To be able to run the code it is necessary to change the path to the files in `women_chronik.ipynb` and make sure
